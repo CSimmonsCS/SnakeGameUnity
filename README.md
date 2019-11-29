@@ -1,4 +1,8 @@
 # SnakeGameUnity
+
+WITHIN THE SNAKE FOLDER WITHIN THIS REPO IS A ZIP FOLDER THAT CONTAINS THE UNITY APPLICATION FOR THIS GAME
+
+
 This Snake game was made using C# and Unity while using the CodeMonkey &amp; CodeMonkey.Utils libraries from @CodeMonkey.  
 
 You control the snake using the arrow keys to eat food to grow the snake longer. Running into the walls will wrap you to the adjYou cannot run into your own body or the game is over!  
